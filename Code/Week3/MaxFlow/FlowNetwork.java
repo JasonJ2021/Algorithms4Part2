@@ -1,4 +1,4 @@
-package Week3;
+package Week3.MaxFlow;
 
 import edu.princeton.cs.algs4.Bag;
 import edu.princeton.cs.algs4.In;

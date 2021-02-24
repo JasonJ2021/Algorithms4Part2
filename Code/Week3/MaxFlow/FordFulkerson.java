@@ -1,4 +1,4 @@
-package Week3;
+package Week3.MaxFlow;
 
 import edu.princeton.cs.algs4.Queue;
 import edu.princeton.cs.algs4.StdOut;
@@ -65,7 +65,7 @@ public class FordFulkerson {
      * Returns true if the specified vertex is on the {@code s} side of the mincut.
      *
      * @param  v vertex
-     * @return {@code true} if vertex {@code v} is on the {@code s} side of the micut;
+     * @return {@code true} if vertex {@code v} is on the {@code s} side of the mincut;
      *         {@code false} otherwise
      * @throws IllegalArgumentException unless {@code 0 <= v < V}
      */
